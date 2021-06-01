@@ -1,3 +1,3 @@
 function calcula_imc(){
-    alert(teste)
+    alert("teste");
 }
